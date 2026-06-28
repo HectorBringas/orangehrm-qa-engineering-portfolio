@@ -4,6 +4,8 @@ These test cases were selected using a Risk-Based Testing approach. Based on the
 
 The objective of these test cases is to verify the most important functionalities and reduce the likelihood of business disruption, security issues, or operational failures if defects are introduced into the system.
 
+These test cases focus on authentication, session management, and access control.
+
 ## TC_LOGIN_001
 
 **Title:** Successful Login with Valid Credentials
